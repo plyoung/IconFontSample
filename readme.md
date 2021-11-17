@@ -1,5 +1,5 @@
 This is an example of how to create your own icons fonts, from vectors graphics, and use it in Unity. 
-See video on hown to use https://www.youtube.com/watch?v=L6GSuGXcd6M
+See video on how to use https://www.youtube.com/watch?v=L6GSuGXcd6M
 
 - Install [NodeJS](https://nodejs.org/en/).
 - Go to `IconFontSample\_work\Icons\IcoFontGen\` where you extracted this package and run `npm install` to install the dependenacies. 
