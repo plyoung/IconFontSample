@@ -1,0 +1,12 @@
+{
+  "name": "font-gen",
+  "version": "1.0.0",
+  "description": "generate font from svg",
+  "scripts": {
+    "build": "gulp build:font"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-iconfont": "^11.0.0"
+  }
+}
