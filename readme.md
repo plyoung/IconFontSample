@@ -10,5 +10,7 @@ See video on how to use https://www.youtube.com/watch?v=-j17lYxGymk
 - Switch to Unity and generate a new TextMeshPro font asset from the generated font and start using the icons by inserting `\uEA03` or whatever code of the icon you want to show up.
 - Add the icon font to fallback fonts in TextmeshPro's settings asset.
 
+TextMeshPro/TextCore might complain about the ellipse and underline special characters being missing. You can disable the warning in the text asset's settings or use some random svg with u005F & u2026.
+
 
 
